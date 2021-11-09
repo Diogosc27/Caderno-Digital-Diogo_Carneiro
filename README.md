@@ -31,3 +31,18 @@ Ou seja, ao invés de termos o mapeamento de cada um dos pixels da imagem, terem
         | ![Imagem Bitmap](https://www.lifewire.com/thmb/ys3GnSkxoq0lQbUT37d-N3JNUG0=/774x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/murphy-compressed-252e13b55718412982ef031a965dbaff.png) |
         |:--:| 
         | *Exemplo Imagens com compressão* |
+        
+# Estudo de Layers
+  Durante a aula com o objetivo de estudar as camadas e suas propriedades. Nesta imagem estão todas as alteração á imagem foram feitas em camadas diferentes, podendo assim trabalhar em cada uma de forma individual para não danificar qualquer das outras camadas.
+  
+   | ![Imagem Camadas](https://user-images.githubusercontent.com/61882826/140939304-04fb12bd-7bf1-4520-aebc-c8ebf5901d1c.png) |
+   |:--:| 
+   | *Exemplo Imagens com várias layers* |
+   
+ # Edição de imagens no lightroom
+ Exemplos:
+ | ![Imagem Sem edição](https://user-images.githubusercontent.com/61882826/140948328-1f397a28-fe08-4969-abb3-e34aeb405fd5.jpg)  | ![Imagem pós edição](https://user-images.githubusercontent.com/61882826/140950018-f0c24d6d-fffd-45ec-8b9e-8dc0fdc88a95.jpg)  |
+ |:-:|:-:|
+ | ![Imagem Sem edição](https://user-images.githubusercontent.com/61882826/140950756-50f7474f-bd42-41ae-9736-e60a1dc55408.jpg)  | ![Imagem pós edição](https://user-images.githubusercontent.com/61882826/140950872-b8a49b9f-14fc-4daf-86f0-8307a77061c1.jpg)  |
+ | *Imagens sem edição*  | *Imagens pós edição*  |
+   
